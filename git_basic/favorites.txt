@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Meat
 Coffee milk
-=======
 Zootopia
 COCO
->>>>>>> movies
